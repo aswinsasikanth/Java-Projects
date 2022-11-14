@@ -11,7 +11,7 @@ public class Arithematic {
         subObj.setMovie(xMovie);
         subObj.fResult();
 
-//
+
 //        while(x < y){
 //            x++;
 //            System.out.println(x + ":Elvin, please do not dump your wife");
