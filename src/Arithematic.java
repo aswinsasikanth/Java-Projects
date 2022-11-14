@@ -11,9 +11,6 @@ public class Arithematic {
         subObj.setMovie(xMovie);
         subObj.fResult();
 
-//        System.out.print("Please enter the value of X");
-//        int x = 0;
-//        int y = input.nextInt();
 //
 //        while(x < y){
 //            x++;
